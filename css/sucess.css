@@ -1,0 +1,18 @@
+
+
+.div{
+    display: flex;
+    padding: 300px;
+    margin: auto;
+    justify-content: center;
+    color: rgb(11, 11, 11);
+    font-weight: 500;
+    background-color: black;
+    border-radius: 20px;
+    
+}
+.alert{
+    text-align: center;
+    margin: auto;
+    background-color: aqua;
+}
